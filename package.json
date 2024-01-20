@@ -1,0 +1,12 @@
+{
+  "name": "o-children-example",
+  "version": "10.0.0",
+  "private": true,
+  "scripts": {
+    "start": "o-children start",
+    "watch": "o-children watch"
+  },
+  "dependencies": {
+    "o-children": "^10.0.0"
+  }
+}
